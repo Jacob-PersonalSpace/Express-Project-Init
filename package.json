@@ -1,0 +1,11 @@
+{
+  "name": "expressprojectinit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Jacob-PersonalSpace/Express-Project-Init.git",
+    "type": "git"
+  },
+  "author": "fengjac@esquel.com <fjh920605@gmail.com>",
+  "license": "MIT"
+}
